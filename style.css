@@ -32,4 +32,7 @@ figcaption {
 
 #details > div {
   float: left;
+  width: 25%;
+  text-align: center;
+  background: red;
 }
